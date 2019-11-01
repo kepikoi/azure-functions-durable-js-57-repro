@@ -2,7 +2,7 @@
   "name": "azure-functions-durable-js#57-repro",
   "version": "1.0.0",
   "dependencies": {
-    "durable-functions": "^1.2.4",
-    "moment": "latest"
+    "durable-functions": "1.2.4",
+    "moment": "~2.24.0"
   }
 }

@@ -13,7 +13,7 @@ Due to a bug in Azure functions `DurableTask` extension in versions `1.8.0 - 1.8
 * DurableTask extension version 1.8.3
 
 ## Install & start
-execute in project root
+start the storage emulator & execute following in project root
 ```
 npm install
 npm install -g azure-functions-core-tools
